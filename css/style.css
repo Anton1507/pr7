@@ -3,6 +3,7 @@ img{
     height: 70px;
 }
 
-li{
+.list{
     color: teal;
+    font-size: 20px;
 }
